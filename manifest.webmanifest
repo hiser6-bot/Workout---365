@@ -1,0 +1,22 @@
+{
+  "name": "Workout 365",
+  "short_name": "Workout 365",
+  "description": "A personalized workout tracker that adapts to goals, fitness level, available equipment, workout duration, preferred cardio, and days per week.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3f7",
+  "theme_color": "#5b2a86",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
